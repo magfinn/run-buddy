@@ -48,9 +48,9 @@ section {
   padding: 60px;
 }
 
-/* Hero Style Chart*/'
+/* Hero Style Chart*/
 .hero {
-  background-image: url(../images/hero-bg.jpg);
+  background-image: url(/);
   height: 600px;
   background-size: cover;
   background-position: center;
@@ -145,6 +145,18 @@ section {
   .secondary-border {
     border-color: #39a6b2;
   }
+/* REACH OUT STYLES START */
+
+.contact {
+  text-align: center;
+  background: #024e76;
+}
+
+.contact h2 {
+  color: #fce138;
+}
+.contact-info
+
 /* Footer Styling Chart*/
 footer {
     background: #fce138;
